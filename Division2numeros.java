@@ -3,7 +3,7 @@ public class Division2numeros {
 public static void main(String[] args) {
     int a=10;
     int b=20;
-int r=a/b;
+float r=b/a;
 System.out.println(+r);
 }    
 }
